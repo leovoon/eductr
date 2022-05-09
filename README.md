@@ -1,21 +1,18 @@
-# svelte-vite-tailwindcss3-template
+# Eductr
 
-This is a fork of Svelte's project template to enable usage of Tailwindcss. Refer to https://github.com/sveltejs/template for more info.
-
-To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
-
-```bash
-npx degit lukem121/svelte-vite-tailwind-template svelte-app
-cd svelte-app
-```
-
-_Note that you will need to have [Node.js](https://nodejs.org) installed._
+npm install
+Eductr is focused on spreading awareness on sustainable practices that can be implemented in everyday life. We conduct seminars and workshops that are targeted towards corporate clients and CSR Initiatives working with youths.
 
 ## Get started
 
 Install the dependencies...
 
 ```bash
-cd svelte-app
 npm install
+```
+
+Run in local...
+
+```bash
+npm run dev
 ```
